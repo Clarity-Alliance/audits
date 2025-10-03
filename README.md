@@ -11,6 +11,7 @@ Clarity Alliance is dedicated to providing top-tier security reviews within the 
 
 | Title                                  | Report                                                                                                      | Type                                                                                     |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Hermetica USDh (Upgrade)        | [2025-09-04](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Hermetica%20USDh%20(Upgrade).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Granite-Pyth (Upgrade)                 | [2025-08-15](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite-Pyth%20(Upgrade).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Granite (Upgrade v2)                   | [2025-07-05](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite%20(Upgrade%20v2).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Stacking DAO (Upgrade)                 | [2025-06-05](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Stacking%20DAO%20(Upgrade).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
@@ -39,6 +40,6 @@ Clarity Alliance is dedicated to providing top-tier security reviews within the 
 
 ### Get in Touch
 -  [Website](https://www.clarityalliance.org)
--  [Twitter](https://x.com/ClarAllianceSTX)
+-  [Twitter](https://x.com/ClarAllianceSec)
 -  [Telegram](https://t.me/CA_Nick)
 -  [Email Us](mailto:contact@clarityalliance.org)
