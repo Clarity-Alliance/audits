@@ -3,7 +3,7 @@
 </p>
 
 ## About Us
-Clarity Alliance is dedicated to providing top-tier security reviews within the Stacks ecosystem. Our team of skilled security researchers ensures that every project we work with upholds the highest standards of security and reliability.
+Clarity Alliance Research is dedicated to providing top-tier security reviews within the Stacks ecosystem. Our team of skilled security researchers ensures that every project we work with upholds the highest standards of security and reliability.
 
 ## See Our Public Security Reports
 
@@ -13,6 +13,7 @@ Clarity Alliance is dedicated to providing top-tier security reviews within the 
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | Hermetica USDh (Upgrade)        | [2025-09-04](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Hermetica%20USDh%20(Upgrade).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Granite-Pyth (Upgrade)                 | [2025-08-15](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite-Pyth%20(Upgrade).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
+| SIP-31 Boot Contract                 | [2025-08-15](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20SIP-31%20Boot%20Contract.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Granite (Upgrade v2)                   | [2025-07-05](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite%20(Upgrade%20v2).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Stacking DAO (Upgrade)                 | [2025-06-05](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Stacking%20DAO%20(Upgrade).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | ALEX Lab                               | [2025-05-16](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20ALEX%20Lab.pdf)             | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
