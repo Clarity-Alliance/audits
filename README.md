@@ -3,7 +3,7 @@
 </p>
 
 ## About Us
-Clarity Alliance Research is dedicated to providing top-tier security reviews within the Stacks ecosystem. Our team of skilled security researchers ensures that every project we work with upholds the highest standards of security and reliability.
+Clarity Alliance is a Web3 security & research firm delivering top-tier security reviews and services. Our researchers have audited and helped secure core components of the Stacks ecosystem.
 
 ## See Our Public Security Reports
 
