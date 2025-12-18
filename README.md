@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1810683589585195008/1749322161/1500x500" alt="Clarity Alliance" width="100%" />
+  <img src="https://pbs.twimg.com/profile_banners/1810683589585195008/1765531990/1500x500" alt="Clarity Alliance" width="100%" />
 </p>
 
 ## About Us
