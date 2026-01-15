@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1810683589585195008/1765531990/1500x500" alt="Clarity Alliance" width="100%" />
+  <img src="https://pbs.twimg.com/profile_banners/1810683589585195008/1768482946/1500x500" alt="Clarity Alliance" width="100%" />
 </p>
 
 ## About Us
@@ -11,8 +11,9 @@ Clarity Alliance is a Web3 security & research firm delivering top-tier security
 
 | Title                                  | Report                                                                                                      | Type                                                                                     |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Zest Protocol v2 (Upgrade V2)        | [2025-12-20](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade%20V2.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
+| Zest Protocol v2 (Upgrade v2)        | [2025-12-20](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade%20V2.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Zest Protocol v2 (Upgrade)        | [2025-12-03](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
+| Granite (Upgrade v3)                   | [2025-12-02](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite%20(Upgrade%20v3).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Zest Protocol v2        | [2025-10-23](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Hermetica USDh (Upgrade)        | [2025-09-04](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Hermetica%20USDh%20(Upgrade).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Granite-Pyth (Upgrade)                 | [2025-08-15](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite-Pyth%20(Upgrade).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
