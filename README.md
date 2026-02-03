@@ -11,6 +11,7 @@ Clarity Alliance is a Web3 security & research firm delivering top-tier security
 
 | Title                                  | Report                                                                                                      | Type                                                                                     |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Hermetica Vaults        | [2026-01-27](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Hermetica%20Vaults.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Zest Protocol v2 (Upgrade v2)        | [2025-12-20](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade%20V2.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Zest Protocol v2 (Upgrade)        | [2025-12-03](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Granite (Upgrade v3)                   | [2025-12-02](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite%20(Upgrade%20v3).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
