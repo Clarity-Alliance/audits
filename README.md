@@ -11,7 +11,7 @@ Clarity Alliance is a Web3 security & research firm delivering top-tier security
 
 | Title                                  | Report                                                                                                      | Type                                                                                     |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Zest Protocol CLMM | [2026-11-02](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20CLMM.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" /> |
+| Zest Protocol CLMM | [2026-11-04](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20CLMM.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" /> |
 | Zest Protocol Strategy Vault | [2026-09-02](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20Strategy%20Vault.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" /> |
 | Zest Protocol Bitcoin Collateral Vaults Demo | [2026-09-01](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20Bitcoin%20Collateral%20Vaults%20Demo.pdf) | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" /> |
 | Stacking DAO PoX-5 | [2026-08-13](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Stacking%20DAO%20PoX-5.pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" /> |
